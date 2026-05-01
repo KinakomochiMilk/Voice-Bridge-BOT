@@ -179,6 +179,6 @@ node_modules/
 
 ## ライセンス / License
 
-MIT © 2026 あなたの名前
+MIT © 2026 Kinakomochi Milk
 
 詳細は [LICENSE](./LICENSE) を参照してください。/ See [LICENSE](./LICENSE) for details.
