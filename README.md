@@ -179,6 +179,7 @@ node_modules/
 
 ## ライセンス / License
 
-MIT © 2026 Kinakomochi Milk
+MIT License © 2026 Kinakomochi Milk  
+Includes work inspired by TUMUGI (JUN-SUZU)
 
 詳細は [LICENSE](./LICENSE) を参照してください。/ See [LICENSE](./LICENSE) for details.
